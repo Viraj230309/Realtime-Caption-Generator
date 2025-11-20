@@ -55,6 +55,10 @@ coverage.xml
 .pytest_cache/
 cover/
 
+*.pbmm
+*.scorer
+*.tflite
+
 # Translations
 *.mo
 *.pot
